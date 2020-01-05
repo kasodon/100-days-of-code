@@ -23,7 +23,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 3: January 2, 2020
+### Day 3: January 3, 2020
 
 **Today's Progress**: Finished up the react calculator project.
 
@@ -34,10 +34,22 @@
 
 # 100 Days Of Code - Log
 
-### Day 4: January 2, 2020
+### Day 4: January 4, 2020
 
 **Today's Progress**: Did Responsive Design on Google codelabs.
 
 **Thoughts:** (Supra).
+
+**Link to work:** [Calculator App](#)
+
+
+# 100 Days Of Code - Log
+
+### Day 5: January 5, 2020
+
+**Today's Progress**: Continued with the React Course on 
+@freeCodeCamp
+
+**Thoughts:** Also got the environment of a React Movie App I'm working on bootstrapped. Work starts Tomorrow. So everyday, will post my progress with the App here.
 
 **Link to work:** [Calculator App](#)
